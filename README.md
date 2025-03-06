@@ -5,4 +5,5 @@
 
 ## 分割
 ### Open-Vocabulary Semantic Segmentation
-1 、[2024 ICLR] CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction.【paper】
+1 、[2024 ICLR] CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction。
+paper：
