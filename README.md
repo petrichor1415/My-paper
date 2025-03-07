@@ -8,6 +8,17 @@
 
 ## 分割
 ### Open-Vocabulary Semantic Segmentation
+**[2022 ECCV]Mask CLIP:Extract Free Dense Labels from CLIP**
+- Paper:https://arxiv.org/pdf/2112.01071
+- Code:https://github.com/chongzhou96/MaskCLIP
+- Innovate:The MaskCLIP and MaskCLIP + models are proposed.
+
+**[2022 ICLR]LANGUAGE-DRIVEN SEMANTIC SEGMENTATION**
+- Paper:https://arxiv.org/pdf/2201.03546
+- Code:https://github.com/isl-org/lang-seg
+- Innovate:Image encoder: based on dense prediction transformer (DPT).
+- 
+
 **[2024 ICLR] CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction**
 - Paper:https://arxiv.org/abs/2310.01403
 - Code:https://github.com/wusize/CLIPSelf
@@ -46,3 +57,9 @@
 
 
 ## 目标检测（Object Detection）
+**[CVPR 2025]LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**
+- Paper:https://arxiv.org/pdf/2501.18954
+- Code:https://github.com/iSEE-Laboratory/LLMDet
+- Innovate:LLM generates image level and region level descriptions.
+- 
+
