@@ -1,5 +1,5 @@
 # My-paper
-## 分类
+## classify
 **[ICML 2021]CLIP：Learning Transferable Visual Models From Natural Language Supervision**
 - Paper:https://arxiv.org/pdf/2103.00020
 - Code:https://github.com/OpenAI/CLIP
@@ -62,5 +62,7 @@
 - Code:https://github.com/iSEE-Laboratory/LLMDet
 - Innovate:LLM generates image level and region level descriptions.
 
+
+## BackBone
 ##  (数据集)Dataset
 
