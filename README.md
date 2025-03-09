@@ -54,13 +54,53 @@
 - Paper:https://arxiv.org/pdf/2312.01597
 - Code:https://github.com/wangf3014/SCLIP
 - Innovate:
+  
+**[CVPR2024] Open-world Semantic Segmentation Including Class Similarity**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf
+- Code:https://github.com/PRBonn/ContMAV
+- Innovate:
 
+**[CVPR2024]Not All Classes Stand on Same Embeddings:Calibrating a Semantic Distance with Metric Tensor**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Not_All_Classes_Stand_on_Same_Embeddings_Calibrating_a_Semantic_CVPR_2024_paper.pdf
+- Code:
+- Innovate:
 
+**[CVPR 2024] DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_DuPL_Dual_Student_with_Trustworthy_Progressive_Learning_for_Robust_Weakly_CVPR_2024_paper.pdf
+- Code:https://github.com/Wu0409/DuPL
+- Innovate
+
+**[CVPR 2024]Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation**
+- Paper:https:https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Hunting_Attributes_Context_Prototype-Aware_Learning_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf
+- Code:https://github.com/Barrett-python/CPAL
+- Innovate
+
+**[CVPR 2024]Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Improving_the_Generalization_of_Segmentation_Foundation_Model_under_Distribution_Shift_CVPR_2024_paper.pdf
+- Code:
+- Innovate
+
+**[CVPR 2024]USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.pdf
+- Code:
+- Innovate
+  
+  
 ## 目标检测（Object Detection）
+**[CVPR 2024]Object Recognition as Next Token Prediction**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Object_Recognition_as_Next_Token_Prediction_CVPR_2024_paper.pdf
+- Code:https://github.com/kaiyuyue/nxtp
+- Innovate:
+
+
+
+
 **[CVPR 2025]LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**
 - Paper:https://arxiv.org/pdf/2501.18954
 - Code:https://github.com/iSEE-Laboratory/LLMDet
 - Innovate:LLM generates image level and region level descriptions.
+
+
 
 ## 医学图像
 **[CVPR 2025]PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness**
