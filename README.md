@@ -62,6 +62,16 @@
 - Code:https://github.com/iSEE-Laboratory/LLMDet
 - Innovate:LLM generates image level and region level descriptions.
 
+## 医学图像
+**[CVPR 2025]PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf
+- Code:https://github.com/jjjsyyy/PH-Net
+- Innovate:
+
+**[CVPR 2024[Highlight] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
+- Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Adapting_Visual-Language_Models_for_Generalizable_Anomaly_Detection_in_Medical_Images_CVPR_2024_paper.pdf
+- Code:https://github.com/MediaBrain-SJTU/MVFA-AD
+- Innovate:
 
 ## BackBone
 ##  (数据集)Dataset
