@@ -84,6 +84,18 @@
 - Paper:https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.pdf
 - Code:
 - Innovate
+
+**[CVPR 2024]ReCLIP++:Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation**
+- Paper:https://arxiv.org/pdf/2408.06747
+- Code:https://github.com/dogehhh/ReCLIP
+- Innovate
+
+
+**[CVPR2024]Official code for Class Tokens Infusion for Weakly Supervised Semantic Segmentation**
+- Paper:Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper
+- Code:https://github.com/yoon307/CTI
+- Innovate
+
   
   
 ## 目标检测（Object Detection）
