@@ -146,6 +146,15 @@
 - Code:https://github.com/yoon307/CTI
 - Innovate
 
+**[CVPR 2024]CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation**
+- Paper:https://arxiv.org/pdf/2303.11797
+- Code:https://github.com/cvlab-kaist/CAT-Seg
+- Innovate
+  
+**[CVPR 2024]CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers**
+- Paper:https://arxiv.org/pdf/2403.07700
+- Code:https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file
+- Innovate
   
   
 ## 目标检测（Object Detection）
