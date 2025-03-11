@@ -1,9 +1,59 @@
 # My-paper
 ## classify
+**[2019]MixMatch: A Holistic Approach to Semi-Supervised Learning**
+- Paper:https://arxiv.org/pdf/1905.02249
+- Code:https://github.com/google-research/mixmatch
+- Innovate:
+  
+
 **[ICML 2021]CLIP：Learning Transferable Visual Models From Natural Language Supervision**
 - Paper:https://arxiv.org/pdf/2103.00020
 - Code:https://github.com/OpenAI/CLIP
 - Innovate:Text-image contrast and training.
+
+**[2021 ]CLIP-Adapter: Better Vision-Language Models with Feature Adapters**
+- Paper:https://arxiv.org/pdf/2110.04544
+- Code:https://github.com/gaopengcuhk/CLIP-Adapter
+- Innovate:
+
+
+**[ECCV 2022]Visual Prompt Tuning**
+- Paper:https://arxiv.org/abs/2203.12119
+- Code:https://github.com/kmnp/vpt
+- Innovate:
+
+**[CVPR 2022]CoOp:Prompt Learning for Vision-Language Models**
+- Paper:https://arxiv.org/pdf/2109.01134
+- Code:https://github.com/KaiyangZhou/CoOp.
+- Innovate:
+
+**(CVPR 2023)Task Residual for Tuning Vision-Language Models**
+- Paper:https://arxiv.org/pdf/2211.10277
+- Code:https://github.com/geekyutao/TaskRes
+- Innovate:
+
+**[2023]UP-Adapter:Unsupervised Prototype Adapter for Vision-Language Models**
+- Paper:https://arxiv.org/pdf/2308.11507
+- Code:
+- Innovate:
+
+
+
+
+[2023 NeurIPS]LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections
+- Paper:https://arxiv.org/pdf/2305.18287
+- Code:https://github.com/jmiemirza/LaFTer
+- Innovate:
+
+**[2024 CVPR]Systematic comparison of semi-supervised and self-supervised learning for medical image classification**
+- Paper:https://arxiv.org/pdf/2307.08919
+- Code:https://github.com/tufts-ml/SSL-vs-SSL-benchmark
+- Innovate:
+
+**[CVPR 2024] Official PyTorch Code for "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**
+- Paper:https://arxiv.org/pdf/2403.02781
+- Code:https://github.com/zhengli97/PromptKD
+- Innovate:
 
 
 ## 分割
