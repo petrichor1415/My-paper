@@ -171,7 +171,10 @@
 [[Code]](https://github.com/MediaBrain-SJTU/MVFA-AD):
 
 ## BackBone
-**1、[CVPR 2016] CAM:Learning Deep Features for Discriminative Localization** [[paper]](https://arxiv.org/pdf/1512.04150)
-**2、[ICCV 2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** [[paper]](https://arxiv.org/pdf/2103.14030)[[code]](https://github.com/microsoft/Swin-Transformer)
+**1、[CVPR 2016] CAM:Learning Deep Features for Discriminative Localization**
+[[paper]](https://arxiv.org/pdf/1512.04150)
+
+**2、[ICCV 2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+[[paper]](https://arxiv.org/pdf/2103.14030)[[code]](https://github.com/microsoft/Swin-Transformer)
 ##  (数据集)Dataset
 
