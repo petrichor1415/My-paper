@@ -139,7 +139,9 @@
 2. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
 3. [2024 CVPR] **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
 4. [CVPR 2024] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
-  
+5. [CVPR 2024] **DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.11184)[[code]](https://github.com/Wu0409/DuPL)
+6. [CVPR 2024] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)[[code]](https://github.com/Barrett-python/CPAL))
+
   
 ## 目标检测（Object Detection）
 **1、[CVPR 2024]Object Recognition as Next Token Prediction**
@@ -169,5 +171,7 @@
 [[Code]](https://github.com/MediaBrain-SJTU/MVFA-AD):
 
 ## BackBone
+1、[CVPR 2016] **CAM:Learning Deep Features for Discriminative Localization** [[paper]](https://arxiv.org/pdf/1512.04150)
+2、[ICCV 2021] **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** [[paper]](https://arxiv.org/pdf/2103.14030)[[code]](https://github.com/microsoft/Swin-Transformer)
 ##  (数据集)Dataset
 
