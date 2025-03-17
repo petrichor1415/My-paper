@@ -1,9 +1,6 @@
 # My-paper
 ## 基于CLIP模型的改进（分类）
-**1、[2019]MixMatch: A Holistic Approach to Semi-Supervised Learning**
-- Paper:https://arxiv.org/pdf/1905.02249
-- Code:https://github.com/google-research/mixmatch
-- Innovate:
+**1、[2019]MixMatch: A Holistic Approach to Semi-Supervised Learning**[[Paper]](https://arxiv.org/pdf/1905.02249)[[Code]](https://github.com/google-research/mixmatch)
   
 
 **2、[ICML 2021]CLIP：Learning Transferable Visual Models From Natural Language Supervision**
