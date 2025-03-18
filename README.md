@@ -131,8 +131,8 @@
 
   
 **19、[CVPR 2024]CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers**
-- Paper:https://arxiv.org/pdf/2403.07700
-- Code:https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file
+[[Paper]](https://arxiv.org/pdf/2403.07700)
+[[Code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
   
 ### Weakly Supervised Semantic Segmentation
 1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/khanrc/tcl)
