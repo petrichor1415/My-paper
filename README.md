@@ -142,6 +142,13 @@
 5. [CVPR 2024] **DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.11184)[[code]](https://github.com/Wu0409/DuPL)
 6. [CVPR 2024] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)[[code]](https://github.com/Barrett-python/CPAL))
 
+
+
+### Supervised Semantic Segmentation
+
+
+### Unsupervised Semantic Segmentation
+
   
 ## 目标检测（Object Detection）
 **1、[CVPR 2024]Object Recognition as Next Token Prediction**
@@ -154,10 +161,9 @@
 [[Code]](https://github.com/iSEE-Laboratory/LLMDet)
 
 
-### Supervised Semantic Segmentation
 
-
-### Unsupervised Semantic Segmentation
+## 聚类
+**1、[ICML 2024]mage Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)[[code]](https://github.com/XLearning-SCU/2024-ICML-TAC)
 
 
 
