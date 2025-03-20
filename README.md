@@ -167,7 +167,7 @@
 
 
 ## 聚类
-**1、[ICML 2024]mage Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)[[code]](https://github.com/XLearning-SCU/2024-ICML-TAC)
+**1、[ICML 2024]Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)[[code]](https://github.com/XLearning-SCU/2024-ICML-TAC)
 
 
 
