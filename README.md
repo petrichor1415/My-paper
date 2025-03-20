@@ -117,7 +117,7 @@
 
 **16、[CVPR 2024]ReCLIP++:Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation**
 [[Paper]](https://arxiv.org/pdf/2408.06747)
-[[Code]](https://github.com/dogehhh/ReCLIP
+[[Code]](https://github.com/dogehhh/ReCLIP)
 
 
 **17、[CVPR2024]Official code for Class Tokens Infusion for Weakly Supervised Semantic Segmentation**
@@ -135,13 +135,17 @@
 [[Code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
   
 ### Weakly Supervised Semantic Segmentation
-1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/khanrc/tcl)
-2. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
-3. [2024 CVPR] **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
-4. [CVPR 2024] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
-5. [CVPR 2024] **DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.11184)[[code]](https://github.com/Wu0409/DuPL)
-6. [CVPR 2024] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)[[code]](https://github.com/Barrett-python/CPAL))
+**1、[ICCV 2023]Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/khanrc/tcl)
 
+**2、[CVPR 2023]Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
+
+**3、[CVPR 2023]Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
+
+**4、[CVPR 2024]DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.11184)[[code]](https://github.com/Wu0409/DuPL)
+
+**5、[CVPR 2024]Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2403.07630)[[code]](https://github.com/Barrett-python/CPAL))
+
+**6、[AAAI 2025]MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2412.11076)[[code]](https://github.com/zwyang6/MoRe)
 
 
 ### Supervised Semantic Segmentation
@@ -174,7 +178,9 @@
 
 **2、[CVPR 2024[Highlight] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Adapting_Visual-Language_Models_for_Generalizable_Anomaly_Detection_in_Medical_Images_CVPR_2024_paper.pdf)
-[[Code]](https://github.com/MediaBrain-SJTU/MVFA-AD):
+[[Code]](https://github.com/MediaBrain-SJTU/MVFA-AD)
+
+**3、[CVPR 2024]GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
 
 ## BackBone
 **1、[CVPR 2016] CAM:Learning Deep Features for Discriminative Localization**
