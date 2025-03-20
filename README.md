@@ -102,7 +102,7 @@
 
 **12、[CVPR 2024] DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation**
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_DuPL_Dual_Student_with_Trustworthy_Progressive_Learning_for_Robust_Weakly_CVPR_2024_paper.pdf)
-[[Code]](https://github.com/Wu0409/DuPL
+[[Code]](https://github.com/Wu0409/DuPL)
 
 **13、[CVPR 2024]Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation**
 [[Paper]](https:https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Hunting_Attributes_Context_Prototype-Aware_Learning_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf)
