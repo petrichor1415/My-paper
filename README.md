@@ -148,6 +148,22 @@
 **6、[AAAI 2025]MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2412.11076)[[code]](https://github.com/zwyang6/MoRe)
 
 
+**7、[ECCV 2024]DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2409.15801)
+
+**8、[CVPR 2023]ToCo:Token Contrast for Weakly-Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2303.01267)[[code]](https://github.com/rulixiang/ToCo)
+
+**9、[CVPR 2024]Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2402.18467)[[code]](https://github.com/zwyang6/SeCo)
+
+**10、[ECCV 2024]CoSa:Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2402.17891)[[code]](https://github.com/youshyee/CoSA)
+
+**10、[IEEE 2024]SSC:Spatial Structure Constraints for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2401.11122)[[code](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC)
+
+**11、[AAAI 2024]Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2312.08916)[[code]](https://github.com/Jessie459/feature-self-reinforcement)
+
+
+
+
+
 ### Supervised Semantic Segmentation
 
 
