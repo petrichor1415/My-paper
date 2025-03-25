@@ -160,6 +160,8 @@
 
 **11、[AAAI 2024]Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2312.08916)[[code]](https://github.com/Jessie459/feature-self-reinforcement)
 
+**12、[CVPR 2022]MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2203.02891)[[code]](https://github.com/xulianuwa/MCTformer)
+
 
 
 
