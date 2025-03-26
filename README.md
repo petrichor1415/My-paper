@@ -139,7 +139,7 @@
 
 **2、[CVPR 2023]Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
 
-**3、[CVPR 2023]Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
+**3、[CVPR 2024]Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
 
 **4、[CVPR 2024]DuPL: Dual Student with Trustworthy Progressive Learning for RobustWeakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.11184)[[code]](https://github.com/Wu0409/DuPL)
 
@@ -166,7 +166,10 @@
 
 
 
-### Supervised Semantic Segmentation
+
+
+### Weakly Supervised Object Localization
+**1、[2024]A Realistic Protocol for Evaluation of Weakly Supervised Object Localization**[[paper](https://arxiv.org/pdf/2404.10034)[[code]](https://github.com/shakeebmurtaza/wsol_model_selection)
 
 
 ### Unsupervised Semantic Segmentation
