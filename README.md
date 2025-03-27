@@ -162,7 +162,15 @@
 
 **12、[CVPR 2022]MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2203.02891)[[code]](https://github.com/xulianuwa/MCTformer)
 
+**13、[CVPR 2023]Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)[[code]](https://github.com/ShenghaiRong/BECO?tab=readme-ov-file)
 
+**14、[CVPR 2022] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2308.03005)[[code]](https://github.com/xulianuwa/MCTformer)
+
+**15、[CVPR 2024]Class Tokens Infusion for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf)[[code]]( https://github.com/yoon307/CTI)
+
+**16、[CVPR 2024]SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation**[paper]](https://arxiv.org/pdf/2401.11719)[[code]](https://github.com/Barrett-python/SFC)
+
+**17、[CVPR 2024] PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf)[[code]](https://github.com/xinqiaozhao/PSDPM)
 
 
 
