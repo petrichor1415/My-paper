@@ -168,7 +168,7 @@
 
 **15、[CVPR 2024]Class Tokens Infusion for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf)[[code]]( https://github.com/yoon307/CTI)
 
-**16、[CVPR 2024]SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation**[paper]](https://arxiv.org/pdf/2401.11719)[[code]](https://github.com/Barrett-python/SFC)
+**16、[CVPR 2024]SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2401.11719)[[code]](https://github.com/Barrett-python/SFC)
 
 **17、[CVPR 2024] PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf)[[code]](https://github.com/xinqiaozhao/PSDPM)
 
