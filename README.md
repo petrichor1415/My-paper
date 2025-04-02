@@ -170,7 +170,9 @@
 
 **16、[CVPR 2024]SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2401.11719)[[code]](https://github.com/Barrett-python/SFC)
 
-**17、[CVPR 2024] PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf)[[code]](https://github.com/xinqiaozhao/PSDPM)
+**17、[CVPR 2024]PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf)[[code]](https://github.com/xinqiaozhao/PSDPM)
+
+**18、[CVPR 2022]Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers**[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ru_Learning_Affinity_From_Attention_End-to-End_Weakly-Supervised_Semantic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)[[code]](https://github.com/rulixiang/afa)
 
 
 
