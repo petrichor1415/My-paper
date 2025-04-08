@@ -124,6 +124,8 @@
 
 **20、[CVPR 2025]PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**[[paper]](https://arxiv.org/pdf/2501.09333)[[code]](https://github.com/Imageomics/Prompt_CAM)
 
+**21、[CVPR 2025]Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2503.20826)[[code]](https://github.com/zwyang6/ExCEL)
+
 
 
 
