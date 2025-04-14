@@ -90,7 +90,7 @@
 
 **3、[CVPR 2022] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2308.03005)[[code]](https://github.com/xulianuwa/MCTformer)
 
-**4、[ICCV 2023]Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/khanrc/tcl)
+**4、[ICCV 2023]Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code](https://github.com/wpy1999/SAT))
 
 **5、[CVPR 2023]Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)[[code]](https://github.com/ShenghaiRong/BECO?tab=readme-ov-file)
 
