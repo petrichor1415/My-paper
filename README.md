@@ -4,8 +4,8 @@
 - **[ICCV 2023]Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)[[code]](https://github.com/miccunifi/SEARLE.)
 - **[CVPR 2025]GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/abs/2403.09974)[[code]](https://github.com/enguangW/GET)
 - **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf)[[code]](https://github.com/xulianuwa/MMCST)
-- **TeD-Loc: Text Distillation for Weakly Supervised Object Localization**[[paper]](https://arxiv.org/pdf/2501.12632)[[code]](https://github.com/shakeebmurtaza/TeDLOC)
-- **MASKINVERSION: LOCALIZED EMBEDDINGS VIA OPTIMIZATION OF EXPLAINABILITY MAPS**[[paper]](https://arxiv.org/pdf/2407.20034)[[code]](https://walidbousselham.com/MaskInversion)
+- **[2025]TeD-Loc: Text Distillation for Weakly Supervised Object Localization**[[paper]](https://arxiv.org/pdf/2501.12632)[[code]](https://github.com/shakeebmurtaza/TeDLOC)
+- **[2024]MASKINVERSION: LOCALIZED EMBEDDINGS VIA OPTIMIZATION OF EXPLAINABILITY MAPS**[[paper]](https://arxiv.org/pdf/2407.20034)[[code]](https://walidbousselham.com/MaskInversion)
 
 
 
