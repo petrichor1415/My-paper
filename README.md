@@ -4,7 +4,12 @@
 - **[ICCV 2023]Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)[[code]](https://github.com/miccunifi/SEARLE.)
 - **[CVPR 2025]GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/abs/2403.09974)[[code]](https://github.com/enguangW/GET)
 - **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf)[[code]](https://github.com/xulianuwa/MMCST)
-- 
+- **TeD-Loc: Text Distillation for Weakly Supervised Object Localization**[[paper]](https://arxiv.org/pdf/2501.12632)[[code]](https://github.com/shakeebmurtaza/TeDLOC)
+- **MASKINVERSION: LOCALIZED EMBEDDINGS VIA OPTIMIZATION OF EXPLAINABILITY MAPS**[[paper]](https://arxiv.org/pdf/2407.20034)[[code]](https://walidbousselham.com/MaskInversion)
+
+
+
+
 **1、[CVPR 2022]Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers**[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ru_Learning_Affinity_From_Attention_End-to-End_Weakly-Supervised_Semantic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)[[code]](https://github.com/rulixiang/afa)
 
 **2、[CVPR 2022]MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2203.02891)[[code]](https://github.com/xulianuwa/MCTformer)
