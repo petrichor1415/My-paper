@@ -2,10 +2,9 @@
 ## 分割
 ### Weakly Supervised Semantic Segmentation
 - **[ICCV 2023]Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)[[code]](https://github.com/miccunifi/SEARLE.)
-- **[CVPR 2025]GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/abs/2403.09974)[[code]](https://github.com/enguangW/GET)
 - **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization**[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf)[[code]](https://github.com/xulianuwa/MMCST)
-- **[2025]TeD-Loc: Text Distillation for Weakly Supervised Object Localization**[[paper]](https://arxiv.org/pdf/2501.12632)[[code]](https://github.com/shakeebmurtaza/TeDLOC)
-
+- **[CVPR 2022] MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2308.03005)[[code]](https://github.com/xulianuwa/MCTformer)
+- **Image Augmentation Agent for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2412.20439)
 
 
 **1、[CVPR 2022]Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers**[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ru_Learning_Affinity_From_Attention_End-to-End_Weakly-Supervised_Semantic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)[[code]](https://github.com/rulixiang/afa)
@@ -49,6 +48,12 @@
 **20、[CVPR 2025]PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**[[paper]](https://arxiv.org/pdf/2501.09333)[[code]](https://github.com/Imageomics/Prompt_CAM)
 
 **21、[CVPR 2025]Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2503.20826)[[code]](https://github.com/zwyang6/ExCEL)
+
+**22、[CVPR 2025]GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/abs/2403.09974)[[code]](https://github.com/enguangW/GET)
+
+**[2025]TeD-Loc: Text Distillation for Weakly Supervised Object Localization**[[paper]](https://arxiv.org/pdf/2501.12632)[[code]](https://github.com/shakeebmurtaza/TeDLOC)
+
+
 
 
 
