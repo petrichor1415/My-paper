@@ -1,4 +1,20 @@
 # My-paper
+## 医学图像
+### 弱监督病理图像的语义分割
+**1、[2025] Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation**[[paper]](https://arxiv.org/pdf/2503.12068)[[code]](https://github.com/QingchenTang/PBIP)
+### 医学图像
+
+
+**1、[CVPR 2024] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Adapting_Visual-Language_Models_for_Generalizable_Anomaly_Detection_in_Medical_Images_CVPR_2024_paper.pdf)
+[[Code]](https://github.com/MediaBrain-SJTU/MVFA-AD)
+
+**2、[CVPR 2024]GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
+
+**3、[CVPR 2025]PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness**
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf)
+[[Code]](https://github.com/jjjsyyy/PH-Net)
+
 ## 分割
 ### Weakly Supervised Semantic Segmentation
 - **[ICCV 2023]Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)[[code]](https://github.com/miccunifi/SEARLE.)
@@ -102,18 +118,6 @@
 ## 聚类
 **1、[ICML 2024]Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)[[code]](https://github.com/XLearning-SCU/2024-ICML-TAC)
 
-
-
-## 医学图像
-**1、[CVPR 2025]PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness**
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf)
-[[Code]](https://github.com/jjjsyyy/PH-Net)
-
-**2、[CVPR 2024[Highlight] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Adapting_Visual-Language_Models_for_Generalizable_Anomaly_Detection_in_Medical_Images_CVPR_2024_paper.pdf)
-[[Code]](https://github.com/MediaBrain-SJTU/MVFA-AD)
-
-**3、[CVPR 2024]GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
 
 ## BackBone
 **1、[CVPR 2016] CAM:Learning Deep Features for Discriminative Localization**
