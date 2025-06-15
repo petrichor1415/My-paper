@@ -1,9 +1,15 @@
 # My-paper
 ## 医学图像
 ### 弱监督病理图像的语义分割
-**1、[2025] Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation**[[paper]](https://arxiv.org/pdf/2503.12068)[[code]](https://github.com/QingchenTang/PBIP)
-### 医学图像
+**1、[ICLR 2023]  ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION**[[paper]](https://arxiv.org/pdf/2210.13007)[[code]](https://arxiv.org/pdf/2210.13007)
 
+**2、[2025] Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation**[[paper]](https://arxiv.org/pdf/2503.12068)[[code]](https://github.com/QingchenTang/PBIP)
+
+**3、[CVPR 2025] POT: Prototypical Optimal Transport for Weakly Supervised Semantic  Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)[[code]](https://github.com/jianwang91/POT)
+
+**4、[CVPR 2025] Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)[[code]]()
+
+### 医学图像
 
 **1、[CVPR 2024] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Adapting_Visual-Language_Models_for_Generalizable_Anomaly_Detection_in_Medical_Images_CVPR_2024_paper.pdf)
@@ -12,8 +18,9 @@
 **2、[CVPR 2024]GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
 
 **3、[CVPR 2025]PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness**
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf)
-[[Code]](https://github.com/jjjsyyy/PH-Net)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf)[[Code]](https://github.com/jjjsyyy/PH-Net)
+
+**4、[CVPR 2025]No Pains, More Gains:Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)[[code]](https://github.com/Qinrong-NKU/DBPS)
 
 ## 分割
 ### Weakly Supervised Semantic Segmentation
