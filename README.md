@@ -27,6 +27,8 @@
 
 **5、[MICCAI 2025]D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM**[[paper]](https://drive.google.com/file/d/1P2J1OhXHcT1Uin8OVGgl6XL1BpmAS6bV/view?usp=drive_link)
 
+**5、[MedIA 2025]UN-SAM: Domain-Adaptive Self-Prompt Segmentation for Universal Nuclei Images**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001549)[[code]](https://github.com/CUHK-AIM-Group/UN-SAM)
+
 
 ## Foundation model Fine-tuning
 2024-NeurIPS-__Boosting Vision-Language Models with Transduction__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
