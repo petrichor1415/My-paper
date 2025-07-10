@@ -9,6 +9,9 @@
 
 **4、[CVPR 2025] Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)[[code]]()
 
+**5、[MICCAI 2025]D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM**[[paper]](https://drive.google.com/file/d/1WHjQZ1i_npRdNV208jz0TGqlcY6pRdAP/view)[[code]](https://github.com/JingjunYi/D-CAM)
+
+
 ### 医学图像
 
 **1、[CVPR 2024] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
@@ -21,6 +24,8 @@
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf)[[Code]](https://github.com/jjjsyyy/PH-Net)
 
 **4、[CVPR 2025]No Pains, More Gains:Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)[[code]](https://github.com/Qinrong-NKU/DBPS)
+
+**5、[MICCAI 2025]D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM**[[paper]](https://drive.google.com/file/d/1P2J1OhXHcT1Uin8OVGgl6XL1BpmAS6bV/view?usp=drive_link)
 
 
 ## Foundation model Fine-tuning
