@@ -29,6 +29,12 @@
 
 **5、[MedIA 2025]UN-SAM: Domain-Adaptive Self-Prompt Segmentation for Universal Nuclei Images**[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001549)[[code]](https://github.com/CUHK-AIM-Group/UN-SAM)
 
+## Training Free
+**2025-ICLR-Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**[[paper]](https://arxiv.org/pdf/2412.18303)[[code]](https://github.com/Yushu-Li/ECALP)
+
+
+
+
 
 ## Foundation model Fine-tuning
 2024-NeurIPS-__Boosting Vision-Language Models with Transduction__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
