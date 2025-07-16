@@ -11,9 +11,6 @@
 
 **5、[MICCAI 2025]D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM**[[paper]](https://drive.google.com/file/d/1WHjQZ1i_npRdNV208jz0TGqlcY6pRdAP/view)[[code]](https://github.com/JingjunYi/D-CAM)
 
-**6、[2025]Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**[[paper]](https://www.arxiv.org/pdf/2504.02008)
-
-**7、[2025]Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**[[paper]](https://www.arxiv.org/pdf/2507.09209)[[code]](https://github.com/ecoxial2007/Expert-CFG)
 
 ### 医学图像
 
@@ -34,7 +31,9 @@
 
 **6、[ 2025]THUNDER:Tile-level Histopathology image UNDERstanding benchmark**[[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)
 
+**7、[2025]Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**[[paper]](https://www.arxiv.org/pdf/2504.02008)
 
+**8、[2025]Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**[[paper]](https://www.arxiv.org/pdf/2507.09209)[[code]](https://github.com/ecoxial2007/Expert-CFG)
 
 
 
