@@ -35,7 +35,11 @@
 
 **8、[2025]Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**[[paper]](https://www.arxiv.org/pdf/2507.09209)[[code]](https://github.com/ecoxial2007/Expert-CFG)
 
+**9、[CVPR 2024]Transductive Zero-Shot and Few-Shot CLIP**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)[[code]](https://github.com/SegoleneMartin/transductive-CLIP)
 
+**10、[IPMI 2025]A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**[[paper]](https://arxiv.org/pdf/2504.05227)[[code]](https://github.com/jusiro/DLILP)
+
+**11、[MICCAI 2025] Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation**[[paper]](https://arxiv.org/pdf/2506.17500)[[code]](https://github.com/jusiro/SS-Text)
 
 
 ## Training Free
