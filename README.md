@@ -46,6 +46,35 @@
 **2025-ICLR-Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**[[paper]](https://arxiv.org/pdf/2412.18303)[[code]](https://github.com/Yushu-Li/ECALP)
 
 
+###  Model Fine-tuning
+**[2019]MixMatch: A Holistic Approach to Semi-Supervised Learning**[[Paper]](https://arxiv.org/pdf/1905.02249)[[Code]](https://github.com/google-research/mixmatch)
+
+**[ICML 2021]CLIP：Learning Transferable Visual Models From Natural Language Supervision**[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)
+
+**[2021 ]CLIP-Adapter: Better Vision-Language Models with Feature Adapters**[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter0)
+
+**[ECCV 2022]Visual Prompt Tuning**[[Paper]](https://arxiv.org/abs/2203.12119)[[Code]](https://github.com/kmnp/vpt)
+
+**[CVPR 2022]CoOp:Prompt Learning for Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)
+
+**[CVPR 2023]Task Residual for Tuning Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2211.10277)[[Code]](https://github.com/geekyutao/TaskRes)
+
+**[2023]UP-Adapter:Unsupervised Prototype Adapter for Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2308.11507)
+
+**[2023 NeurIPS]LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections**[[Paper]](https://arxiv.org/pdf/2305.18287)[[Code]](https://github.com/jmiemirza/LaFTer)
+
+**[2024 CVPR]Systematic comparison of semi-supervised and self-supervised learning for medical image classification**[[Paper]](https://arxiv.org/pdf/2307.08919)[[Code]](https://github.com/tufts-ml/SSL-vs-SSL-benchmark)
+
+**[CVPR 2024] Official PyTorch Code for "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)
+
+**[ICCV 2025] One Last Attention for your Vision-Language Model**[[paper]](https://github.com/khufia/RAda/tree/main)[[code]](https://github.com/khufia/RAda/tree/main)
+
+**[ICCV 2025] Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?**[[paper]](https://arxiv.org/pdf/2003.11539)[[code]](https://github.com/WangYueFt/rfs/)
+
+**[ICCV 2025] CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**[[paper]](https://arxiv.org/pdf/2412.19142)[[code]]()
+
+
+
 
 
 
@@ -160,40 +189,7 @@
 **1、[2024]A Realistic Protocol for Evaluation of Weakly Supervised Object Localization**[[paper](https://arxiv.org/pdf/2404.10034)[[code]](https://github.com/shakeebmurtaza/wsol_model_selection)
 
 
-### Unsupervised Semantic Segmentation
 
-## 基于CLIP模型的改进（分类）
-**1、[2019]MixMatch: A Holistic Approach to Semi-Supervised Learning**[[Paper]](https://arxiv.org/pdf/1905.02249)[[Code]](https://github.com/google-research/mixmatch)
-
-**2、[ICML 2021]CLIP：Learning Transferable Visual Models From Natural Language Supervision**[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)
-
-**3、[2021 ]CLIP-Adapter: Better Vision-Language Models with Feature Adapters**[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter0)
-
-**4、[ECCV 2022]Visual Prompt Tuning**[[Paper]](https://arxiv.org/abs/2203.12119)[[Code]](https://github.com/kmnp/vpt)
-
-**5、[CVPR 2022]CoOp:Prompt Learning for Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)
-
-**6、[CVPR 2023]Task Residual for Tuning Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2211.10277)[[Code]](https://github.com/geekyutao/TaskRes)
-
-**7、[2023]UP-Adapter:Unsupervised Prototype Adapter for Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2308.11507)
-
-**8、[2023 NeurIPS]LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections**[[Paper]](https://arxiv.org/pdf/2305.18287)[[Code]](https://github.com/jmiemirza/LaFTer)
-
-**9、[2024 CVPR]Systematic comparison of semi-supervised and self-supervised learning for medical image classification**[[Paper]](https://arxiv.org/pdf/2307.08919)[[Code]](https://github.com/tufts-ml/SSL-vs-SSL-benchmark)
-
-**10、[CVPR 2024] Official PyTorch Code for "PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)
-
-
-
-## 目标检测（Object Detection）
-**1、[CVPR 2024]Object Recognition as Next Token Prediction**
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Object_Recognition_as_Next_Token_Prediction_CVPR_2024_paper.pdf)
-[[Code]](https://github.com/kaiyuyue/nxtp)
-
-
-**2、[CVPR 2025]LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**
-[[Paper]](https://arxiv.org/pdf/2501.18954)
-[[Code]](https://github.com/iSEE-Laboratory/LLMDet)
 
 
 
