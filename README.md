@@ -59,6 +59,8 @@
 
 **[CVPR 2025]COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation** [[paper](https://arxiv.org/pdf/2503.23388)] [[code](https://github.com/hf618/COSMIC)]  
 
+**[CVPR 2025] Text Augmented Correlation Transformer For Few-shot Classification & Segmentation**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Nandam_Text_Augmented_Correlation_Transformer_For_Few-shot_Classification__Segmentation_CVPR_2025_paper.pdf)
+
 
 ### 病理图像检测
 **[CVPR 2024] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
