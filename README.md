@@ -166,6 +166,8 @@
 ## 聚类
 **1、[ICML 2024]Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)[[code]](https://github.com/XLearning-SCU/2024-ICML-TAC)
 
+**2、[TPAMI 2024]Simplex Clustering via sBeta With Applications to Online Adjustment of Black-Box Predictions**[[paper]](https://arxiv.org/pdf/2208.00287)[[code]](https://github.com/fchiaroni/Clustering_Softmax_Predictions)
+
 ## BackBone
 **1、[CVPR 2016] CAM:Learning Deep Features for Discriminative Localization**
 [[paper]](https://arxiv.org/pdf/1512.04150)
