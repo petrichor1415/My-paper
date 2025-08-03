@@ -22,6 +22,8 @@
 
 **[2025] Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**[[paper]](https://www.arxiv.org/pdf/2504.02008)
 
+**[MIDL 2025] Segment Anything for Histopathology**[[paper]](https://arxiv.org/pdf/2502.00408)[[code]](https://github.com/computational-cell-analytics/patho-sam)
+
 ### 病理图像分类
 **[NeurIPS 2024] Boosting Vision-Language Models with Transduction** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
 
@@ -65,6 +67,8 @@
 
 **[ICCV 2025] One Last Attention for your Vision-Language Model**[[paper]](https://arxiv.org/pdf/2507.15480)[[code]](https://github.com/khufia/RAda/tree/main)
 
+**[NeurIPS 2024]FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcdf38389d7fcefc73c4c3720217155-Paper-Conference.pdf)[[code]](https://github.com/fukexue/FAST)
+
 ### 病理图像检测
 **[CVPR 2024] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Adapting_Visual-Language_Models_for_Generalizable_Anomaly_Detection_in_Medical_Images_CVPR_2024_paper.pdf)
@@ -102,6 +106,16 @@
 **[ICCV 2025] Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models**[[paper]](https://iccv.thecvf.com/virtual/2025/poster/1177)
 
 **[ICCV 2025] Test-Time Retrieval-Augmented Adaptation for Vision-Language Models**[[paper]](https://iccv.thecvf.com/virtual/2025/poster/2327)
+
+
+
+### Few-shot合集
+**[ICCV 2023] Black Box Few-Shot Adaptation for Vision-Language models**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf)[[code]](https://github.com/saic-fi/LFA)
+**[2024]Selective Vision-Language Subspace Projection for Few-shot CLIP**[[paper]](https://arxiv.org/pdf/2407.16977?)[[code]](https://github.com/zhuhsingyuu/SSP)
+**[ICCV 2025] CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2411.10086)[[code]](https://github.com/zdk258/CorrCLIP)
+
+
+
 
 ## 自然图像
 ### Weakly Supervised Semantic Segmentation
