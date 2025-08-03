@@ -111,7 +111,9 @@
 
 ### Few-shot合集
 **[ICCV 2023] Black Box Few-Shot Adaptation for Vision-Language models**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf)[[code]](https://github.com/saic-fi/LFA)
+
 **[2024]Selective Vision-Language Subspace Projection for Few-shot CLIP**[[paper]](https://arxiv.org/pdf/2407.16977?)[[code]](https://github.com/zhuhsingyuu/SSP)
+
 **[ICCV 2025] CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2411.10086)[[code]](https://github.com/zdk258/CorrCLIP)
 
 
