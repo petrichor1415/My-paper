@@ -24,6 +24,9 @@
 
 **[MIDL 2025] Segment Anything for Histopathology**[[paper]](https://arxiv.org/pdf/2502.00408)[[code]](https://github.com/computational-cell-analytics/patho-sam)
 
+**[ICLR 2026]SPROUT:TRAINING-FREENUCLEARINSTANCESEG MENTATIONWITHAUTOMATICPROMPTING**[[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf))[[code]]()
+
+
 ### 病理图像分类
 **[NeurIPS 2024] Boosting Vision-Language Models with Transduction** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
 
@@ -68,6 +71,11 @@
 **[ICCV 2025] One Last Attention for your Vision-Language Model**[[paper]](https://arxiv.org/pdf/2507.15480)[[code]](https://github.com/khufia/RAda/tree/main)
 
 **[NeurIPS 2024]FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcdf38389d7fcefc73c4c3720217155-Paper-Conference.pdf)[[code]](https://github.com/fukexue/FAST)
+
+**[ICLR 2026] FLOW-BASED ALIGNMENT OF UNI-MODAL VISION AND TEXT ENCODERS FOR FEW-SHOT IMAGE CLASSIFICATION**[[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)[[code]]()
+
+**[ICLR 2026]  EXPLOITINGLOW-DIMENSIONALMANIFOLDOFFEATURES FORFEW-SHOTWHOLESLIDEIMAGECLASSIFICATION**[[paper]](https://openreview.net/attachment?id=HBP9uSEYME&name=pdf)[[code]]()
+
 
 ### 病理图像检测
 **[CVPR 2024] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
