@@ -116,7 +116,6 @@
 **[ICCV 2025] Test-Time Retrieval-Augmented Adaptation for Vision-Language Models**[[paper]](https://iccv.thecvf.com/virtual/2025/poster/2327)
 
 
-
 ### Few-shot合集
 **[ICCV 2023] Black Box Few-Shot Adaptation for Vision-Language models**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf)[[code]](https://github.com/saic-fi/LFA)
 
@@ -125,6 +124,8 @@
 **[ICCV 2025] CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2411.10086)[[code]](https://github.com/zdk258/CorrCLIP)
 
 
+## 综述
+**[2025] Adapting Vision-Language Models Without Labels:A Comprehensive Survey**[[paper]](https://arxiv.org/pdf/2508.05547?)[[code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs)
 
 
 ## 自然图像
