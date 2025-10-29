@@ -185,6 +185,10 @@
 
 **27、[CVPR 2025]Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation**
 
+### 分类
+**[ICCV 2025] Generate, Transduct, Adapt: Iterative Transduction with VLMs**[[paper]](https://arxiv.org/pdf/2501.06031)[[code]](https://github.com/cvl-umass/GTA-CLIP))
+
+
 ### Weakly Supervised Object Localization
 **1、[2024]A Realistic Protocol for Evaluation of Weakly Supervised Object Localization**[[paper](https://arxiv.org/pdf/2404.10034)[[code]](https://github.com/shakeebmurtaza/wsol_model_selection)
 
