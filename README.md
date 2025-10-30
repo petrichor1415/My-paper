@@ -40,6 +40,8 @@
 
 **[CVPR 2024] ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification** [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)] [[code](https://github.com/Jiangbo-Shi/ViLa-MIL)]  
 
+**[MICCAI 2024] Few-shot Adaptation of Medical Vision-Language Models**[[paper]](https://arxiv.org/pdf/2409.03868)[[code]](https://github.com/FereshteShakeri/few-shot-MedVLMs?tab=readme-ov-file)
+
 **[CVPR 2025] No Pains, More Gains:Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)[[code]](https://github.com/Qinrong-NKU/DBPS)
 
 **[ 2025] THUNDER:Tile-level Histopathology image UNDERstanding benchmark**[[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)
