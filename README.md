@@ -207,6 +207,7 @@
 ## benchmark
 https://github.com/FereshteShakeri/few-shot-MedVLMs
 
+**1、[NeurIPS25 D&B Spotlight] A tile-level histopathology image understanding benchmark**[[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)
 
 <a name="Dataset"></a>
 # Dataset:
