@@ -74,7 +74,7 @@
 
 **[ICLR 2026] FLOW-BASED ALIGNMENT OF UNI-MODAL VISION AND TEXT ENCODERS FOR FEW-SHOT IMAGE CLASSIFICATION**[[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)[[code]]()
 
-**[ICLR 2026]  EXPLOITINGLOW-DIMENSIONALMANIFOLDOFFEATURES FORFEW-SHOTWHOLESLIDEIMAGECLASSIFICATION**[[paper]](https://openreview.net/attachment?id=HBP9uSEYME&name=pdf)[[code]]()
+**[ICLR 2026]  EXPLOITING LOW-DIMENSIONAL MANIFOLD OF FEATURES FORFEW-SHOT WHOLE SLIDE IMAGE CLASSIFICATION**[[paper]](https://openreview.net/attachment?id=HBP9uSEYME&name=pdf)[[code]]()
 
 
 ### 病理图像检测
