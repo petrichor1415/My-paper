@@ -177,11 +177,11 @@
 
 **22、[CVPR 2025]PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**[[paper]](https://arxiv.org/pdf/2501.09333)[[code]](https://github.com/Imageomics/Prompt_CAM)
 
-**23、[CVPR 2025]Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2503.20826)[[code]](https://github.com/zwyang6/ExCEL)
+**23、[CVPR 2025]Exploring CLIP’s Dense Knowledge for Weakly、 Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2503.20826)[[code]](https://github.com/zwyang6/ExCEL)
 
 **24、[CVPR 2025]GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/abs/2403.09974)[[code]](https://github.com/enguangW/GET)
 
-**2[2025]TeD-Loc: Text Distillation for Weakly Supervised Object Localization**[[paper]](https://arxiv.org/pdf/2501.12632)[[code]](https://github.com/shakeebmurtaza/TeDLOC)
+**25、[2025]TeD-Loc: Text Distillation for Weakly Supervised Object Localization**[[paper]](https://arxiv.org/pdf/2501.12632)[[code]](https://github.com/shakeebmurtaza/TeDLOC)
 
 **26、[2025]Image Augmentation Agent for Weakly Supervised Semantic Segmentation**[[paper]](https://arxiv.org/pdf/2412.20439)
 
