@@ -130,6 +130,13 @@
 **[2025] Adapting Vision-Language Models Without Labels:A Comprehensive Survey**[[paper]](https://arxiv.org/pdf/2508.05547?)[[code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs)
 
 
+## KNN & retrieval
+
+ **1、NeurIPS 2021]Re-ranking for image retrieval and transductive few-shot classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/d9fc0cdb67638d50f411432d0d41d0ba-Paper.pdf)[[code]](https://imagine.enpc.fr/~shenx/SSR/)
+
+
+
+
 ## 自然图像
 ### Weakly Supervised Semantic Segmentation
 
