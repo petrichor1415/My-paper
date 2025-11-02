@@ -156,7 +156,13 @@
 
 ## KNN & retrieval
 
- **1、NeurIPS 2021]Re-ranking for image retrieval and transductive few-shot classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/d9fc0cdb67638d50f411432d0d41d0ba-Paper.pdf)[[code]](https://imagine.enpc.fr/~shenx/SSR/)
+**1、NeurIPS 2021]Re-ranking for image retrieval and transductive few-shot classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/d9fc0cdb67638d50f411432d0d41d0ba-Paper.pdf)[[code]](https://imagine.enpc.fr/~shenx/SSR/)
+
+**2、[CVPR 2017]Re-ranking Person Re-identification with k-reciprocal Encoding**[[paper]](https://arxiv.org/pdf/1701.08398)[[code]](https://github.com/zhunzhong07/person-re-ranking)
+
+**3、[CVPR 2025]Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Cheb-GR_Rethinking_K-nearest_Neighbor_Search_in_Re-ranking_for_Person_Re-identification_CVPR_2025_paper.pdf)[[code]](https://github.com/Jinxi-Yang-WHU/Fast-GCR)
+
+
 
 
 
