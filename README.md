@@ -24,6 +24,24 @@
 
 **[MIDL 2025] Segment Anything for Histopathology**[[paper]](https://arxiv.org/pdf/2502.00408)[[code]](https://github.com/computational-cell-analytics/patho-sam)
 
+**[MICCAI 2025] D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM**[[paper]](https://papers.miccai.org/miccai-2025/paper/0830_paper.pdf)[[code]](https://github.com/JingjunYi/D-CAM)
+
+**[MICCAI 2025] Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations**[[paper]](https://papers.miccai.org/miccai-2025/paper/3439_paper.pdf)[[code]](https://github.com/DongdongMeng/SMMS)
+
+**[CVPR 2025] Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf)[[code]](https://github.com/shihangjs/M2TGLGO)
+
+**[2025 1CLR] VLSA: lnterpretable Vision-Language Survival Analysis with Ordinal inductive Bias for Computational Pathology**[[paper]](https://arxiv.org/pdf/2409.09369)[[code]](https://github.com/liupei101/VLSA)
+
+**[2025 Nature] A vision-language foundation model for precision oncology**[[paper]](https://www.nature.com/articles/s41586-024-08378-w)
+
+**[2025 arXivl]ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology**[[paper]](https://arxiv.org/pdf/2503.17564)[[code]](https://github.com/martellab-sri/ModalTune)
+
+
+
+
+
+
+
 **[ICLR 2026]SPROUT:TRAINING-FREENUCLEARINSTANCESEG MENTATIONWITHAUTOMATICPROMPTING**[[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf))[[code]]()
 
 
@@ -71,6 +89,12 @@
 **[ICCV 2025] Think Twice: Test-Time Reasoning for Robust CLIP Zero-Shot Classification**[[paper]](https://iccv.thecvf.com/virtual/2025/poster/1492)
 
 **[ICCV 2025] One Last Attention for your Vision-Language Model**[[paper]](https://arxiv.org/pdf/2507.15480)[[code]](https://github.com/khufia/RAda/tree/main)
+
+**[MICCAI 2025] Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models**[[paper]](https://papers.miccai.org/miccai-2025/paper/0019_paper.pdf)[[code]](https://github.com/CUHK-BMEAI/CRCL)
+
+
+
+
 
 **[NeurIPS 2024]FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcdf38389d7fcefc73c4c3720217155-Paper-Conference.pdf)[[code]](https://github.com/fukexue/FAST)
 
@@ -217,6 +241,8 @@
 https://github.com/FereshteShakeri/few-shot-MedVLMs
 
 **1、[NeurIPS25 D&B Spotlight] A tile-level histopathology image understanding benchmark**[[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)
+
+
 
 <a name="Dataset"></a>
 # Dataset:
