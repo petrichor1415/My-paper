@@ -36,6 +36,8 @@
 
 **[2025 arXivl]ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology**[[paper]](https://arxiv.org/pdf/2503.17564)[[code]](https://github.com/martellab-sri/ModalTune)
 
+**[2025 NeurIPS]Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective**[[paper]](https://openreview.net/pdf?id=wHx7UuRm7G)[[code]]()
+
 
 
 
