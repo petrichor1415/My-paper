@@ -250,6 +250,9 @@ https://github.com/FereshteShakeri/few-shot-MedVLMs
 
 **1、[NeurIPS25 D&B Spotlight] A tile-level histopathology image understanding benchmark**[[paper]](https://arxiv.org/pdf/2507.07860)[[code]](https://github.com/MICS-Lab/thunder)
 
+**2、[nature biomedical engineering]Benchmarking foundation models as feature extractors for weakly-supervised computational pathology**[[paper]](https://arxiv.org/pdf/2408.15823)[[code]]()
+
+
 
 
 <a name="Dataset"></a>
