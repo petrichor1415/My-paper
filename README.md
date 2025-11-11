@@ -38,7 +38,7 @@
 
 **[2025 NeurIPS]Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective**[[paper]](https://openreview.net/pdf?id=wHx7UuRm7G)[[code]]()
 
-
+**[NeurIPS 2025] Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology**[[paper]](https://arxiv.org/pdf/2506.02408)[[code]](https://github.com/DearCaat/E2E-WSI-ABMILX)
 
 
 
