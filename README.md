@@ -94,15 +94,14 @@
 
 **[MICCAI 2025] Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models**[[paper]](https://papers.miccai.org/miccai-2025/paper/0019_paper.pdf)[[code]](https://github.com/CUHK-BMEAI/CRCL)
 
-
-
-
-
 **[NeurIPS 2024]FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcdf38389d7fcefc73c4c3720217155-Paper-Conference.pdf)[[code]](https://github.com/fukexue/FAST)
 
 **[ICLR 2026] FLOW-BASED ALIGNMENT OF UNI-MODAL VISION AND TEXT ENCODERS FOR FEW-SHOT IMAGE CLASSIFICATION**[[paper]](https://openreview.net/attachment?id=educGk5ykl&name=pdf)[[code]]()
 
 **[ICLR 2026]  EXPLOITING LOW-DIMENSIONAL MANIFOLD OF FEATURES FORFEW-SHOT WHOLE SLIDE IMAGE CLASSIFICATION**[[paper]](https://openreview.net/attachment?id=HBP9uSEYME&name=pdf)[[code]]()
+
+**[MedAGI 2025] Test-Time Adaptation of Medical Vision-Language Models**[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-07845-2_18)[[code]](https://github.com/FereshteShakeri/TTAMedVLMs?tab=readme-ov-file#test-time-adaptation-of-medical-vlms)
+
 
 
 ### 病理图像检测
