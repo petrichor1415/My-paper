@@ -40,10 +40,6 @@
 
 **[NeurIPS 2025] Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology**[[paper]](https://arxiv.org/pdf/2506.02408)[[code]](https://github.com/DearCaat/E2E-WSI-ABMILX)
 
-
-
-
-
 **[ICLR 2026]SPROUT:TRAINING-FREENUCLEARINSTANCESEG MENTATIONWITHAUTOMATICPROMPTING**[[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf))[[code]]()
 
 
