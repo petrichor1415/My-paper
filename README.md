@@ -102,7 +102,9 @@
 
 **[MedAGI 2025] Test-Time Adaptation of Medical Vision-Language Models**[[paper]](https://link.springer.com/chapter/10.1007/978-3-032-07845-2_18)[[code]](https://github.com/FereshteShakeri/TTAMedVLMs?tab=readme-ov-file#test-time-adaptation-of-medical-vlms)
 
-**[NeurIPS 2024]RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability**[[paper]](https://arxiv.org/pdf/2504.07416)[[code]]( https://github.com/deepnoid-ai/RadZero)
+**[NeurIPS 2025]RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability**[[paper]](https://arxiv.org/pdf/2504.07416)[[code]]( https://github.com/deepnoid-ai/RadZero)
+
+**[NeurIPS 2025]Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**[[paper]](https://arxiv.org/pdf/2504.07416)[[code]]( https://github.com/bryanwong17/HiVE-MIL)
 
 
 ### 病理图像检测
