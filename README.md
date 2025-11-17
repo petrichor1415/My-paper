@@ -106,6 +106,12 @@
 
 **[NeurIPS 2025]Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**[[paper]](https://arxiv.org/pdf/2504.07416)[[code]]( https://github.com/bryanwong17/HiVE-MIL)
 
+**[NeurIPS 2025] MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**[[paper]](https://arxiv.org/pdf/2509.25863)[[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
+
+
+
+
+
 
 ### 病理图像检测
 **[CVPR 2024] Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**
