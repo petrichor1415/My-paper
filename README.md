@@ -104,7 +104,7 @@
 
 **[NeurIPS 2025] MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**[[paper]](https://arxiv.org/pdf/2509.25863)[[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 
-
+**[NeurIPS 2025] Conditional Representation Learning for Customized Tasks**[[paper]](https://arxiv.org/pdf/2510.04564)[[code]](https://github.com/XLearning-SCU/2025-NeurIPS-CRL)
 
 
 
