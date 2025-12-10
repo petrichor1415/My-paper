@@ -100,7 +100,7 @@
 
 **[NeurIPS 2025]RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability**[[paper]](https://arxiv.org/pdf/2504.07416)[[code]]( https://github.com/deepnoid-ai/RadZero)
 
-**[NeurIPS 2025]Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**[[paper]](https://arxiv.org/pdf/2504.07416)[[code]]( https://github.com/bryanwong17/HiVE-MIL)
+**[NeurIPS 2025]Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**[[paper]](https://arxiv.org/pdf/2505.17982)[[code]]( https://github.com/bryanwong17/HiVE-MIL)
 
 **[NeurIPS 2025] MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**[[paper]](https://arxiv.org/pdf/2509.25863)[[code]](https://github.com/JJ-ZHOU-Code/MAPLE)
 
