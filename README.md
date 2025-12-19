@@ -106,6 +106,7 @@
 
 **[NeurIPS 2025] Conditional Representation Learning for Customized Tasks**[[paper]](https://arxiv.org/pdf/2510.04564)[[code]](https://github.com/XLearning-SCU/2025-NeurIPS-CRL)
 
+**[MICCAI 2025] Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification** [[paper](https://papers.miccai.org/miccai-2025/paper/2868_paper.pdf)] [[code]](https://github.com/shb2908/BIIGMA-Net) 
 
 
 
