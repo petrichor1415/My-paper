@@ -108,6 +108,8 @@
 
 **[MICCAI 2025] Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification** [[paper](https://papers.miccai.org/miccai-2025/paper/2868_paper.pdf)] [[code]](https://github.com/shb2908/BIIGMA-Net) 
 
+**[CVPR 2025] Towards All-in-One Medical Image Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Towards_All-in-One_Medical_Image_Re-Identification_CVPR_2025_paper.pdf) [[code]](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch) 
+
 
 
 ### 病理图像检测
