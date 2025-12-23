@@ -106,9 +106,33 @@
 
 **[NeurIPS 2025] Conditional Representation Learning for Customized Tasks**[[paper]](https://arxiv.org/pdf/2510.04564)[[code]](https://github.com/XLearning-SCU/2025-NeurIPS-CRL)
 
+**[CVPR 2025] Towards All-in-One Medical Image Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Towards_All-in-One_Medical_Image_Re-Identification_CVPR_2025_paper.pdf) [[code]](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch) 
+
 **[MICCAI 2025] Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification** [[paper](https://papers.miccai.org/miccai-2025/paper/2868_paper.pdf)] [[code]](https://github.com/shb2908/BIIGMA-Net) 
 
-**[CVPR 2025] Towards All-in-One Medical Image Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Towards_All-in-One_Medical_Image_Re-Identification_CVPR_2025_paper.pdf) [[code]](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch) 
+**[MICCAI 2025] Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/0569_paper.pdf) [[code]]() 
+
+**[MICCAI 2025] Medical Contrastive Learning of Positive and Negative Mentions** [[paper]](https://papers.miccai.org/miccai-2025/paper/3892_paper.pdf) [[code]](https://github.com/WVeLong/VECL) 
+
+**[MICCAI 2025] MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering** [[paper]](https://papers.miccai.org/miccai-2025/paper/2665_paper.pdf) [[code]](https://github.com/BioMedIA-MBZUAI/MOTOR) 
+
+**[MICCAI 2025] OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models** [[paper]](https://papers.miccai.org/miccai-2025/paper/1566_paper.pdf) [[code]](https://github.com/HiLab-git/OpenPath) 
+
+**[MICCAI 2025] Temporal Model-Based Federated Active Medical Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/1626_paper.pdf) [[code]](https://github.com/IAMJackYan/TM-FAL) 
+
+**[MICCAI 2025] Training-free Test-time Improvement for Explainable Medical Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/1672_paper.pdf) [[code]](https://github.com/riverback/TF-TTI-XMed) 
+
+**[MICCAI 2025] Weighted Stratification in Multi-Label Contrastive Learning for Long-Tailed Medical Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/1834_paper.pdf) [[code]](https://github.com/xup6YJ/ws-MulSupCon) 
+
+**[MICCAI 2025] XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/1773_paper.pdf) [[code]](https://github.com/XZheng0427/XFMamba) 
+
+**[MICCAI 2025] Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images** [[paper]](https://papers.miccai.org/miccai-2025/paper/0530_paper.pdf) [[code]](https://wolfda95.github.io/your_other_left/) 
+
+**[MICCAI 2025] BiMSRec: A Progressive Image Reconstruction Framework for Medical Image Fusion Guided by Multi-Scale Deformation Fields** [[paper]](https://papers.miccai.org/miccai-2025/paper/1799_paper.pdf) [[code]]() 
+
+**[MICCAI 2025] BayeSMM: Robust Deep Combined Computing Tackling Heavy-tailed Distribution in Medical Images** [[paper]](https://papers.miccai.org/miccai-2025/paper/0645_paper.pdf) [[code]](https://github.com/HenryLau7/BayeSMM) 
+
+**[MICCAI 2025] AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/5183_paper.pdf) [[code]](https://github.com/dazhangyu123/AEM) 
 
 
 
