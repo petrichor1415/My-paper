@@ -269,6 +269,22 @@
 
 **2、[TPAMI 2024]Simplex Clustering via sBeta With Applications to Online Adjustment of Black-Box Predictions**[[paper]](https://arxiv.org/pdf/2208.00287)[[code]](https://github.com/fchiaroni/Clustering_Softmax_Predictions)
 
+### Multi-visual clustering
+**1、[CVPR 2025]EASEMVC:Efficient Dual Selection Mechanism for Deep Multi-View Clustering**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_EASEMVCEfficient_Dual_Selection_Mechanism_for_Deep_Multi-View_Clustering_CVPR_2025_paper.pdf)
+
+**2、[CVPR 2025]Enhanced then Progressive Fusion with View Graph for Multi-View Clustering**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Enhanced_then_Progressive_Fusion_with_View_Graph_for_Multi-View_Clustering_CVPR_2025_paper.pdf)
+
+**3、[CVPR 2025]Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.pdf)
+
+**4、[CVPR 2025]Deep Fair Multi-View Clustering with Attention KAN**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Deep_Fair_Multi-View_Clustering_with_Attention_KAN_CVPR_2025_paper.pdf)
+
+**5、[CVPR 2025]Medusa: A Multi-Scale High-order Contrastive Dual-Diffusion Approach for Multi-View Clustering**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Medusa_A_Multi-Scale_High-order_Contrastive_Dual-Diffusion_Approach_for_Multi-View_Clustering_CVPR_2025_paper.pdf)
+
+**6、[ICCV 2025]Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Generalized_Deep_Multi-view_Clustering_via_Causal_Learning_with_Partially_Aligned_ICCV_2025_paper.pdf?utm_source=chatgpt.com)
+
+
+
+
 ## BackBone
 **1、[CVPR 2016] CAM:Learning Deep Features for Discriminative Localization**
 [[paper]](https://arxiv.org/pdf/1512.04150)
