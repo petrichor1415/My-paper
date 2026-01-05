@@ -189,7 +189,7 @@
 
 ## KNN & retrieval
 
-**1、NeurIPS 2021]Re-ranking for image retrieval and transductive few-shot classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/d9fc0cdb67638d50f411432d0d41d0ba-Paper.pdf)[[code]](https://imagine.enpc.fr/~shenx/SSR/)
+**1、[NeurIPS 2021]Re-ranking for image retrieval and transductive few-shot classification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/d9fc0cdb67638d50f411432d0d41d0ba-Paper.pdf)[[code]](https://imagine.enpc.fr/~shenx/SSR/)
 
 **2、[CVPR 2017]Re-ranking Person Re-identification with k-reciprocal Encoding**[[paper]](https://arxiv.org/pdf/1701.08398)[[code]](https://github.com/zhunzhong07/person-re-ranking)
 
@@ -282,8 +282,19 @@
 
 **6、[ICCV 2025]Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Generalized_Deep_Multi-view_Clustering_via_Causal_Learning_with_Partially_Aligned_ICCV_2025_paper.pdf?utm_source=chatgpt.com)
 
+**7、[NeurIPS 2025]HSACC: Hybrid Semantic-Aligned Contrastive Clustering for Incomplete Multi-View Clustering**[[paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/118577)[[code]](https://github.com/XiaojianDing/2025-NeurIPS-HSACC/blob/main/README.md)
 
+**8、[NeurIPS 2025]Learning from Disjoint Views: A Contrastive Prototype Matching Network for Fully Incomplete Multi-View Clustering**[[paper]](https://openreview.net/pdf?id=8wWHCzsTxS)[[code]](https://nips.cc/public/guides/CodeSubmissionPolicy)
 
+**9、[NeurIPS 2025]Scalable Cross-View Sample Alignment for Multi-View Clustering with View Structure Similarity**[[paper]](https://openreview.net/pdf?id=oysfr9yqUI)[[code]](https://nips.cc/public/guides/CodeSubmissionPolicy)
+
+**10、[NeurIPS 2025]Scalable Cross-View Sample Alignment for Multi-View Clustering with View Structure Similarity**[[paper]](https://openreview.net/pdf?id=oysfr9yqUI)[[code]](https://nips.cc/public/guides/CodeSubmissionPolicy)
+
+**11、[NeurIPS 2025]AF-UMC:An Alignment-Free Fusion Framework for Unaligned Multi-View Clustering**[[paper]](https://openreview.net/pdf?id=G1jrjumK1b)[[code]](https://nips.cc/public/guides/CodeSubmissionPolicy)
+
+**12、[ICML 2025]Multi-View Graph Clustering via Node-Guided Contrastive Learning and Adaptive Fusion**[[paper]](https://openreview.net/pdf?id=Ae5qnQxAxQ)[[code]]()
+
+**13、[ICLR 2025]SIMPLE YET EFFECTIVE INCOMPLETE MULTI-VIEW CLUSTERING: SIMILARITY-LEVEL IMPUTATION AND INTRA-VIEW HYBRID-GROUP PROTOTYPE CONSTRUCTION**[[paper]](https://openreview.net/pdf?id=KijslFbfOL)[[code]]()
 
 ## BackBone
 **1、[CVPR 2016] CAM:Learning Deep Features for Discriminative Localization**
