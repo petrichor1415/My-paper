@@ -42,6 +42,8 @@
 
 **[ICLR 2026]SPROUT:TRAINING-FREENUCLEARINSTANCESEG MENTATIONWITHAUTOMATICPROMPTING**[[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf))[[code]]()
 
+**[NeurIPS 2025] Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images**[[paper]](https://openreview.net/pdf?id=BkSRQ1y37l)[[code]]()
+
 
 ### 病理图像分类
 **[NeurIPS 2024] Boosting Vision-Language Models with Transduction** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
