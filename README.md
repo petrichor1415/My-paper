@@ -139,7 +139,7 @@
 ### Survival Analysis
 **[NeurIPS 2025] Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** [[paper]](https://openreview.net/pdf?id=BkSRQ1y37l) [[code]]() 
 
-**[ICCV 2025] Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction**[[paper]](https://arxiv.org/pdf/2411.14001)[[code]]()
+**[ICCV 2025] Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction**[[paper]](https://arxiv.org/pdf/2411.14001)[[code]](https://github.com/yuntaoshou/DETA)
 
 
 
