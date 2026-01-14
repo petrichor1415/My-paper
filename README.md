@@ -136,6 +136,13 @@
 
 **[MICCAI 2025] AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/5183_paper.pdf) [[code]](https://github.com/dazhangyu123/AEM) 
 
+### Survival Analysis
+**[NeurIPS 2025] Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** [[paper]](https://openreview.net/pdf?id=BkSRQ1y37l) [[code]]() 
+
+**[ICCV 2025] Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction**[[paper]](https://arxiv.org/pdf/2411.14001)[[code]]()
+
+
+
 
 
 ### 病理图像检测
