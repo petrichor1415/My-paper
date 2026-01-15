@@ -44,6 +44,10 @@
 
 **[NeurIPS 2025] Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images**[[paper]](https://openreview.net/pdf?id=BkSRQ1y37l)[[code]]()
 
+**[ICCV 2025] AcZeroTS:ActiveLearningforZero-shotTissueSegmentationinPathology Image**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_AcZeroTS_Active_Learning_for_Zero-shot_Tissue_Segmentation_in_Pathology_Images_ICCV_2025_paper.pdf)[[code]]()
+
+
+
 
 ### 病理图像分类
 **[NeurIPS 2024] Boosting Vision-Language Models with Transduction** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
@@ -135,6 +139,17 @@
 **[MICCAI 2025] BayeSMM: Robust Deep Combined Computing Tackling Heavy-tailed Distribution in Medical Images** [[paper]](https://papers.miccai.org/miccai-2025/paper/0645_paper.pdf) [[code]](https://github.com/HenryLau7/BayeSMM) 
 
 **[MICCAI 2025] AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/5183_paper.pdf) [[code]](https://github.com/dazhangyu123/AEM) 
+
+**[ICCV 2025] GMMamba: GroupMasking MambaforWhole Slide Image Classification**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_GMMamba_Group_Masking_Mamba_for_Whole_Slide_Image_Classification_ICCV_2025_paper.pdf)[[code]]()
+
+
+
+
+
+
+
+
+
 
 ### 生存分析
 **[Nature 2024] A pathology foundation model for cancer diagnosis and prognosis prediction** [[paper]](https://www.nature.com/articles/s41586-024-07894-z) [[code]]() 
