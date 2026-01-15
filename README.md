@@ -136,10 +136,51 @@
 
 **[MICCAI 2025] AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification** [[paper]](https://papers.miccai.org/miccai-2025/paper/5183_paper.pdf) [[code]](https://github.com/dazhangyu123/AEM) 
 
-### Survival Analysis
+### 生存分析
+**[Nature 2024] A pathology foundation model for cancer diagnosis and prognosis prediction** [[paper]](https://www.nature.com/articles/s41586-024-07894-z) [[code]]() 
+
+**[CVPR 2024] Tumor Micro-environment Interactions Guided Graph Learning for Survival Analysis of Human Cancers from Whole-slide Pathological Images**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Shao_Tumor_Micro-environment_Interactions_Guided_Graph_Learning_for_Survival_Analysis_of_CVPR_2024_paper.pdf) [[code]]() 
+
+**[CVPR 2024] Modeling Dense Multimodal Interactions Between Biological Pathways and Histology for Survival Prediction**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jaume_Modeling_Dense_Multimodal_Interactions_Between_Biological_Pathways_and_Histology_for_CVPR_2024_paper.pdf) [[code]](https://github.com/mahmoodlab/SurvPath) 
+
+**[AAAI 2025] ConSurv: Multimodal Continual Learning for Survival Analysis** [[paper]](https://arxiv.org/pdf/2511.09853) [[code]](https://github.com/LucyDYu/ConSurv) 
+
+
+**[ICCV 2025] PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Raza_PS3_A_Multimodal_Transformer_Integrating_Pathology_Reports_with_Histology_Images_ICCV_2025_paper.pdf?utm_source=chatgpt.com)[[code]]()
+
+**[Nature 2025] A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images** [[paper]](https://www.nature.com/articles/s41467-025-57587-y?utm_source=chatgpt.com) [[code]]() 
+
 **[NeurIPS 2025] Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images** [[paper]](https://openreview.net/pdf?id=BkSRQ1y37l) [[code]]() 
 
 **[ICCV 2025] Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction**[[paper]](https://arxiv.org/pdf/2411.14001)[[code]](https://github.com/yuntaoshou/DETA)
+
+**[ICCV 2025] PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Raza_PS3_A_Multimodal_Transformer_Integrating_Pathology_Reports_with_Histology_Images_ICCV_2025_paper.pdf?utm_source=chatgpt.com)[[code]]()
+
+
+
+**[Bioinformatics 2025] Deep learning-driven survival prediction in pan-cancer studies by integrating multimodal histology-genomic data** [[paper]](https://watermark02.silverchair.com/bbaf121.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1AwggNMBgkqhkiG9w0BBwagggM9MIIDOQIBADCCAzIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMlH4-IggTL5hXJB8aAgEQgIIDAysc-Kp7c0hMqATVcoGRNDRB7nnvo_aPJvNSf8vvO3fSapqVVOc4wDYsebGLeTeh22S03iETsVgTuxxbgOiPe4q7ct8UaTzAQsGyZI0x-ilqhJJ_pF4qEZ9zOLDu0tIFWM7TMEBadWhiIi-5XeSu2iRflc15n9ppK4Qhhg8auldY7DZbcNzLX1nKO1bds0anramsU5Fu9LsTNRJulWLFaZrk1KP9UsbcINFpsRPit2n0dxCcLKOE0P95EOBnQjimAwYFroz8dG9qsEGX82ffp25i4wPKLDT090A5TGs1smaY2KhvX7jOJkCFC-cT_cbpkI3I4Qgybk9lR8xvt_51Bbdn9uivP8wfVRIPHMndlsVgbSSBxTcAGOzAMEHbKfMRovqVvjUlK1bqVjmU47Bu1zOfo8FXbF0VvvMgMK-h8n61BrdYwhS9P-gsz8-y2rINEgzGGf0MhyfSYCLKKmRHH_ubU9wdy6VXyFaLUeGNoP0-WshbSvjkYsxHC98n8R62euumh7Smr5m3esyhBQAHp-W0GFZPZVPE9-BWmxhlSOEbxLW7i7pP5K8mZXiGSiy7ebQS4qIjD_zZ_bxLbQoQwjsdW75eYfexZSUQ_ZifPY-yrF9mJdwY-mKTe5mhBrulxf5M6eOG70OSBcs7tzZUAoj-A0bXps2HNn-LkE1Dh2pXAW9hBjzrS7YxmIeX__83YJN4Aq-PyXtt1XKCRFbmwKOmdjy1-trqzW3xQ10jYgU3Jldale3eehOAqpWkoOvNWEy4XoCXH_4TawGNH4F3ivfvdlrldul00A3Sl3LRUo0s1AJLVWg2dAv9GIPiWYBfGupdLyJKEPobWzyzZMmY3_iq63lpm31hxerx-t_0CfS8vek91FXdrCxsVOUs_nDhI9-tdDbXGlNunmLAS2Ol-Uw5fGhpmQFT4N4pjzCJ7S72JbQfqiQ2PZXQHWJw021e4xlcdWvoMukOMszQkunfMk0bsCe-X-TfggTRmPZPbT5FB3l0MILuQAhvLMIOYT0UA8FBcQ) [[code]]() 
+
+**[MICCAI 2025] Multimodal Cross-Task Interaction for Survival Analysis in Whole Slide Pathological Images** [[paper]](https://papers.miccai.org/miccai-2024/paper/1280_paper.pdf?utm_source=chatgpt.com) [[code]](https://github.com/jsh0792/MCTI) 
+
+**[MICCAI 2025] Survival analysis of histopathological image based on a pretrained hypergraph model of spatial transcriptomics data** [[paper]](https://papers.miccai.org/miccai-2024/paper/4136_paper.pdf?utm_source=chatgpt.com) [[code]]() 
+
+**[MICCAI 2025] LLM-guided Multi-modal Multiple Instance Learning for 5-year Overall Survival Prediction of Lung Cancer** [[paper]](https://papers.miccai.org/miccai-2024/paper/2173_paper.pdf) [[code]](https://github.com/KyleKWKim/LLM-guided-Multimodal-MIL) 
+
+**[NeurIPS 2025] Leveraging Tumor Heterogeneity: Heterogeneous Graph Representation Learning for Cancer Survival Prediction in Whole Slide Images** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/760341adc5632de3f1cf2e8d22215a93-Paper-Conference.pdf) [[code]](https://github.com/wjx-error/ProtoSurv) 
+
+**[MICCAI 2025] A flexible deep learning framework for survival analysis with medical data** [[paper]](https://papers.miccai.org/miccai-2025/paper/1381_paper.pdf) [[code]]() 
+
+**[MICCAI 2025] Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation** [[paper]](https://papers.miccai.org/miccai-2025/paper/1264_paper.pdf?utm_source=chatgpt.com) [[code]](https://github.com/zhengwang9/Rasa) 
+
+**[MICCAI 2025] Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients** [[paper]](https://papers.miccai.org/miccai-2025/paper/0301_paper.pdf?utm_source=chatgpt.com) [[code]]() 
+
+**[MICCAI 2025] SCMIL: Sparse Context-aware Multiple Instance Learning for Predicting Cancer Survival Probability Distribution in Whole Slide Images** [[paper]](https://papers.miccai.org/miccai-2024/paper/2991_paper.pdf?utm_source=chatgpt.com) [[code]](https://github.com/yang-ze-kang/SCMIL) 
+
+
+
+
+
+
 
 
 
