@@ -42,8 +42,6 @@
 
 **[ICLR 2026]SPROUT:TRAINING-FREENUCLEARINSTANCESEG MENTATIONWITHAUTOMATICPROMPTING**[[paper]](https://openreview.net/attachment?id=pqLlFR5ken&name=pdf))[[code]]()
 
-**[NeurIPS 2025] Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images**[[paper]](https://openreview.net/pdf?id=BkSRQ1y37l)[[code]]()
-
 **[ICCV 2025] AcZeroTS:ActiveLearningforZero-shotTissueSegmentationinPathology Image**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_AcZeroTS_Active_Learning_for_Zero-shot_Tissue_Segmentation_in_Pathology_Images_ICCV_2025_paper.pdf)[[code]]()
 
 
