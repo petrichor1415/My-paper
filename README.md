@@ -170,7 +170,6 @@
 **[ICCV 2025] PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction**[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Raza_PS3_A_Multimodal_Transformer_Integrating_Pathology_Reports_with_Histology_Images_ICCV_2025_paper.pdf?utm_source=chatgpt.com)[[code]]()
 
 
-
 **[Bioinformatics 2025] Deep learning-driven survival prediction in pan-cancer studies by integrating multimodal histology-genomic data** [[paper]](https://watermark02.silverchair.com/bbaf121.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1AwggNMBgkqhkiG9w0BBwagggM9MIIDOQIBADCCAzIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMlH4-IggTL5hXJB8aAgEQgIIDAysc-Kp7c0hMqATVcoGRNDRB7nnvo_aPJvNSf8vvO3fSapqVVOc4wDYsebGLeTeh22S03iETsVgTuxxbgOiPe4q7ct8UaTzAQsGyZI0x-ilqhJJ_pF4qEZ9zOLDu0tIFWM7TMEBadWhiIi-5XeSu2iRflc15n9ppK4Qhhg8auldY7DZbcNzLX1nKO1bds0anramsU5Fu9LsTNRJulWLFaZrk1KP9UsbcINFpsRPit2n0dxCcLKOE0P95EOBnQjimAwYFroz8dG9qsEGX82ffp25i4wPKLDT090A5TGs1smaY2KhvX7jOJkCFC-cT_cbpkI3I4Qgybk9lR8xvt_51Bbdn9uivP8wfVRIPHMndlsVgbSSBxTcAGOzAMEHbKfMRovqVvjUlK1bqVjmU47Bu1zOfo8FXbF0VvvMgMK-h8n61BrdYwhS9P-gsz8-y2rINEgzGGf0MhyfSYCLKKmRHH_ubU9wdy6VXyFaLUeGNoP0-WshbSvjkYsxHC98n8R62euumh7Smr5m3esyhBQAHp-W0GFZPZVPE9-BWmxhlSOEbxLW7i7pP5K8mZXiGSiy7ebQS4qIjD_zZ_bxLbQoQwjsdW75eYfexZSUQ_ZifPY-yrF9mJdwY-mKTe5mhBrulxf5M6eOG70OSBcs7tzZUAoj-A0bXps2HNn-LkE1Dh2pXAW9hBjzrS7YxmIeX__83YJN4Aq-PyXtt1XKCRFbmwKOmdjy1-trqzW3xQ10jYgU3Jldale3eehOAqpWkoOvNWEy4XoCXH_4TawGNH4F3ivfvdlrldul00A3Sl3LRUo0s1AJLVWg2dAv9GIPiWYBfGupdLyJKEPobWzyzZMmY3_iq63lpm31hxerx-t_0CfS8vek91FXdrCxsVOUs_nDhI9-tdDbXGlNunmLAS2Ol-Uw5fGhpmQFT4N4pjzCJ7S72JbQfqiQ2PZXQHWJw021e4xlcdWvoMukOMszQkunfMk0bsCe-X-TfggTRmPZPbT5FB3l0MILuQAhvLMIOYT0UA8FBcQ) [[code]]() 
 
 **[MICCAI 2025] Multimodal Cross-Task Interaction for Survival Analysis in Whole Slide Pathological Images** [[paper]](https://papers.miccai.org/miccai-2024/paper/1280_paper.pdf?utm_source=chatgpt.com) [[code]](https://github.com/jsh0792/MCTI) 
@@ -188,15 +187,6 @@
 **[MICCAI 2025] Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients** [[paper]](https://papers.miccai.org/miccai-2025/paper/0301_paper.pdf?utm_source=chatgpt.com) [[code]]() 
 
 **[MICCAI 2025] SCMIL: Sparse Context-aware Multiple Instance Learning for Predicting Cancer Survival Probability Distribution in Whole Slide Images** [[paper]](https://papers.miccai.org/miccai-2024/paper/2991_paper.pdf?utm_source=chatgpt.com) [[code]](https://github.com/yang-ze-kang/SCMIL) 
-
-
-
-
-
-
-
-
-
 
 
 ### 病理图像检测
@@ -258,7 +248,8 @@
 
 **3、[CVPR 2025]Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Cheb-GR_Rethinking_K-nearest_Neighbor_Search_in_Re-ranking_for_Person_Re-identification_CVPR_2025_paper.pdf)[[code]](https://github.com/Jinxi-Yang-WHU/Fast-GCR)
 
-
+### Model Selection
+**1、[NeurIPS 2025]Bridge the Modality and Capability Gaps in Vision-Language Model Selection**[[paper]](https://papers.neurips.cc/paper_files/paper/2024/file/3d007df4ae13adf9001f8969555b11bd-Paper-Conference.pdf)[[code]](https://github.com/YCaigogogo/SWAB)
 
 
 
